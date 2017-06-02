@@ -1,5 +1,5 @@
-# Created by https://www.gitignore.io/api/linux,python
-# ====================================================
+# Created by https://www.gitignore.io/api/linux
+# =============================================
 
 ### Linux ###
 *~
@@ -15,12 +15,6 @@
 
 # .nfs files are created when an open file is removed but is still being accessed
 .nfs*
-
-### Python ###
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
 
 
 # Miscellaneous
