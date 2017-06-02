@@ -1,5 +1,7 @@
 # conky-geometry
 
+__Work in Progress__
+
 Lua functions for conky, inpired by [dailyminimal.com](http://www.dailyminimal.com/)
 
 ## Setup
