@@ -2,7 +2,17 @@
 
 Lua functions for conky, inpired by [dailyminimal.com](http://www.dailyminimal.com/)
 
+## Setup
+
+Just copy *conky_geometry.lua* to *~/.conky/conky_geometry.lua*.
+
 ## Usage
+
+There is an example config file, *geometry.conky*, which can be used with the following command:
+
+```
+conky -c geometry.conky
+```
 
 ### Arguments
 
